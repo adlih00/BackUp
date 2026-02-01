@@ -148,25 +148,25 @@ const navbar = () =>{
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="/pages/cursos.html">Cursos</a>
+                    <a class="nav-link" href="./pages/cursos.html">Cursos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/pages/recursos.html">Recursos</a>
+                    <a class="nav-link" href="./pages/recursos.html">Recursos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/pages/cultura.html">Cultura</a>
+                    <a class="nav-link" href="./pages/cultura.html">Cultura</a>
                 </li>
 
                 <li class="nav-item dropdown d-none d-lg-block">
-                    <a class="nav-link dropdown-toggle" href="/pages/acercaDe.html" role="button">Acerca de nosotros</a>
+                    <a class="nav-link dropdown-toggle" href="./pages/acercaDe.html" role="button">Acerca de nosotros</a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="/pages/preguntasFrecuentes.html">Preguntas frecuentes</a></li>
-                        <li><a class="dropdown-item" href="/pages/contacto.html">Contáctanos</a></li>
+                        <li><a class="dropdown-item" href="./pages/preguntasFrecuentes.html">Preguntas frecuentes</a></li>
+                        <li><a class="dropdown-item" href="./pages/contacto.html">Contáctanos</a></li>
                     </ul>
                 </li>
                 
                 <li class="nav-item d-none d-lg-block">
-                    <a class="boton" id="btn-Log-in" href="/pages/logIn.html">Log in</a>
+                    <a class="boton" id="btn-Log-in" href="./pages/logIn.html">Log in</a>
                 </li>
             </ul>
         </div>
